@@ -1,5 +1,8 @@
 # Hi there, I'm Nonthiya! 👋
 
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mindnonthiya&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 **Aspiring Software Developer | Next.js & TypeScript Enthusiast**
 
 I have a strong interest in building digital products, with a focus on clean code, system design, and creating intuitive user experiences.
@@ -17,6 +20,13 @@ I have a strong interest in building digital products, with a focus on clean cod
 - 🛠️ Enjoy solving technical problems and building practical, reliable solutions.
 - 🎓 Studying Mathematics with Computer Science at King Mongkut's University of Technology North Bangkok.
 - 📫 How to reach me: **mindnonthiya@gmail.com**
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mindnonthiya/mindnonthiya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mindnonthiya/mindnonthiya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mindnonthiya/mindnonthiya/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### 📊 GitHub Stats
 <p align="left">
