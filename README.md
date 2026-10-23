@@ -33,4 +33,4 @@ I have a strong interest in building digital products, with a focus on clean cod
 </p>
 
 ### 📊 GitHub Metrics & Activity
-<img src="https://raw.githubusercontent.com/mindnonthiya/mindnonthiya/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://raw.githubusercontent.com/mindnonthiya/mindnonthiya/main/github-metrics.svg" alt="Metrics" width="75%">
