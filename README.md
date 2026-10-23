@@ -32,5 +32,3 @@ I have a strong interest in building digital products, with a focus on clean cod
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindnonthiya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="195"/>
 </p>
 
-### 📊 GitHub Metrics & Activity
-<img src="https://raw.githubusercontent.com/mindnonthiya/mindnonthiya/main/github-metrics.svg" alt="Metrics" width="75%">
