@@ -1,8 +1,5 @@
 # Hi there, I'm Nonthiya! 👋
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mindnonthiya&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 **Aspiring Software Developer | Next.js & TypeScript Enthusiast**
 
 I have a strong interest in building digital products, with a focus on clean code, system design, and creating intuitive user experiences.
